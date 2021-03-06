@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "団員専用ページ"
+title:  "🔐"
 <meta http-equiv="Refresh" content="0; URL=https://portal.mejirophil-orch.com">
 ---
 
