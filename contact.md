@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "お問い合わせ"
+
 <style>
 * {
   box-sizing: border-box;
