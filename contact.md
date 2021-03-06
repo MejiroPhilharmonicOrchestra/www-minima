@@ -10,7 +10,7 @@ title:  "お問い合わせ"
 * <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA">YouTube</a>
 
 ### お問い合わせフォーム
-<p><span style="color:#ba2636">*&nbsp;必須項目</span> </p>
+<!--<p><span style="color:#ba2636">*&nbsp;必須項目</span> </p>
 <script type="text/javascript">
     var submitted = false;
     var currentURL = window.location.href;
@@ -34,4 +34,4 @@ title:  "お問い合わせ"
         <label for="content">メッセージ</label>
             <textarea id="content" name="entry.780349072" style="height:200px" placeholder="メッセージを入力してください。" required></textarea>
         <input type="submit" value="送信">
-    </form>
+    </form>-->
