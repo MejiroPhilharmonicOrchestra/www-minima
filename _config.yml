@@ -4,3 +4,5 @@ description: >-
 twitter_username: MPOsince2018
 facebook_username: MPOsince2018
 theme: minima
+plugins:
+  - jekyll-feed
