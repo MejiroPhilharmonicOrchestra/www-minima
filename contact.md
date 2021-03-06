@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "お問い合わせ"
+<link rel="stylesheet" href="/www-minima/assets/css/style.scss">
 ---
 
 ### 各種メディア
