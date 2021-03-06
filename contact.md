@@ -16,23 +16,23 @@ title:  "お問い合わせ"
     var submitted = false;
     var currentURL = window.location.href;
 </script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/thanks';}"></iframe>
-  <form action="https://docs.google.com/forms/d/e/1FAIpQLSfjC7mv9Pj6ybPoUfC3zxa5ZNwM9gAgrmjryu3poRggTxMbyA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-    <label for="userName">氏名<span style="color:#ba2636">&nbsp;*</span></label>
-      <input type="text" id="userName" name="entry.1912182567" placeholder="" required>
-    <label for="email">メールアドレス<span style="color:#ba2636">&nbsp;*</span></label>
-        <input type="email" id="email" name="entry.150345241" placeholder="mail@example.com" required>
-        <p>@mejirophil-orch.comからの受信を許可するよう設定してください。</p><br>
-    <label for="category">カテゴリ<span style="color:#ba2636">&nbsp;*</span></label>
-        <select id="contactType" name="entry.1654052070" required>
-            <option value="">選択してください...</option>
-            <option value="演奏会">演奏会</option>
-            <option value="入団希望・相談">入団希望・相談</option>
-            <option value="演奏依頼">演奏依頼</option>
-            <option value="チラシ挟込">チラシ挟込</option>
-            <option value="その他">その他</option>
-      </select>
-    <label for="content">メッセージ<span style="color:#ba2636">&nbsp;*</span></label>
-      <textarea id="content" name="entry.780349072" style="height:200px" placeholder="メッセージを入力してください。" required></textarea>
-    <input type="submit" value="送信">
-</form>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='./thanks.html';}"></iframe>
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLSfjC7mv9Pj6ybPoUfC3zxa5ZNwM9gAgrmjryu3poRggTxMbyA/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
+        <label for="userName">氏名<span style="color:#ba2636">&nbsp;*</span></label>
+            <input type="text" id="userName" name="entry.1912182567" placeholder="Your Name" required>
+        <label for="email">メールアドレス<span style="color:#ba2636">&nbsp;*</span></label>
+            <input type="email" id="email" name="entry.150345241" placeholder="mail@example.com" required>
+            <p class="small">@mejirophil-orch.comからの受信を許可するよう設定してください。</p><br>
+        <label for="category">カテゴリ<span style="color:#ba2636">&nbsp;*</span></label>
+            <select id="contactType" name="entry.1654052070" required>
+                <option value="">選択してください...</option>
+                <option value="演奏会">演奏会</option>
+                <option value="入団希望・相談">入団希望・相談</option>
+                <option value="演奏依頼">演奏依頼</option>
+                <option value="チラシ挟込">チラシ挟込</option>
+                <option value="その他">その他</option>
+            </select>
+        <label for="content">メッセージ</label>
+            <textarea id="content" name="entry.780349072" style="height:200px" placeholder="メッセージを入力してください。" required></textarea>
+        <input type="submit" value="送信">
+    </form>
