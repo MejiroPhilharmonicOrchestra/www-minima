@@ -10,6 +10,71 @@ title:  "お問い合わせ"
 * [YouTube](https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA)
 
 ### お問い合わせフォーム
+<style>
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], input[type=email], input[type=tel], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #163475;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #004a98;
+}
+
+.container {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+</style>
 <p><span style="color:#ba2636">*&nbsp;必須項目</span> </p>
 <script type="text/javascript">
     var submitted = false;
@@ -21,7 +86,7 @@ title:  "お問い合わせ"
       <input type="text" id="userName" name="entry.1912182567" placeholder="" required>
     <label for="email">メールアドレス<span style="color:#ba2636">&nbsp;*</span></label>
         <input type="email" id="email" name="entry.150345241" placeholder="mail@example.com" required>
-        <p class="small">@mejirophil-orch.comからの受信を許可するよう設定してください。</p><br>
+        <p>@mejirophil-orch.comからの受信を許可するよう設定してください。</p><br>
     <label for="category">カテゴリ<span style="color:#ba2636">&nbsp;*</span></label>
         <select id="contactType" name="entry.1654052070" required>
             <option value="">選択してください...</option>
