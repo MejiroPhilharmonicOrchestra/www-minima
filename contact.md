@@ -10,7 +10,7 @@ title:  "お問い合わせ"
 * <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA">YouTube</a>
 
 ### お問い合わせフォーム
-
+<link rel="stylesheet" href="/www-minima/assets/css/style.scss">
 <p><span style="color:#ba2636">*&nbsp;必須項目</span> </p>
 <script type="text/javascript">
     var submitted = false;
