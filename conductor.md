@@ -5,7 +5,7 @@ title:  "指揮者"
 
 ### 小林雄太
 
-![Conductor: Yuta Kobayashi](/assets/images/conductor.jpg "Conductor: Yuta Kobayashi")
+![Conductor: Yuta Kobayashi](/assets/images/conductor.jpg)
 
 新潟県長岡市生まれ。給費奨学生として東京音楽大学指揮科に入学。現在、4年在学中。
 
