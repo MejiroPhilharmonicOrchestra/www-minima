@@ -1,3 +1,4 @@
+theme: minima
 title: Mejiro Philharmonic Orchestra
 email: official@mejirophil-orch.com
 description: >-
@@ -7,6 +8,5 @@ url: ""
 twitter_username: MPOsince2018
 facebook_username: MPOsince2018
 github_username: MejiroPhilharmonicOrchestra
-theme: minima
 plugins:
   - jekyll-feed
