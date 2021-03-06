@@ -7,7 +7,7 @@ categories: concerts
 
 **第1回定期演奏会は無事に終了いたしました。<br>皆様のご来場誠にありがとうございました。<br>団員一同より良い音を求め、次なる演奏会へ準備を進めて参ります。**
 
-![第1回定期演奏会ポスター](/www-minima/assets/images/2018-10-21-1st-concert-flyer.jpg "第1回定期演奏会ポスター")
+![第1回定期演奏会ポスター](/www-minima/assets/images/2018-10-21-1st-concert-flyer.jpg)
 
 ### 演奏会情報
 日時：2018年10月21日（日）昼公演<br>
