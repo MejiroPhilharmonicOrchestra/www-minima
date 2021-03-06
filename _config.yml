@@ -6,3 +6,12 @@ facebook_username: MPOsince2018
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - about.md
+  - concerts.md
+  - conductor.md
+  - join.md
+  - support.md
+  - partner.md
+  - contact.md
+  - portal.md
