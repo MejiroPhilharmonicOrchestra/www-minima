@@ -1,12 +1,12 @@
-theme: minima
 title: Mejiro Philharmonic Orchestra
 email: official@mejirophil-orch.com
 description: >-
-  東京都豊島区を拠点に活動する、大学の垣根を超えた新たな形の学生主体のアマチュアオーケストラ。2018年結成。
+  "東京都豊島区を拠点に活動する、大学の垣根を超えた新たな形の学生主体のアマチュアオーケストラ。2018年結成。"
 baseurl: ""
 url: ""
 twitter_username: MPOsince2018
 facebook_username: MPOsince2018
 github_username: MejiroPhilharmonicOrchestra
+theme: minima
 plugins:
   - jekyll-feed
