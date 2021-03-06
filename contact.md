@@ -1,15 +1,6 @@
 ---
 layout: page
 title:  "お問い合わせ"
----
-
-### 各種メディア
-* [Facebook](https://www.facebook.com/MPOsince2018/)
-* [Twitter](https://twitter.com/MPOsince2018)
-* [Peing-質問箱-](https://peing.net/mposince2018)
-* [YouTube](https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA)
-
-### お問い合わせフォーム
 <style>
 * {
   box-sizing: border-box;
@@ -75,6 +66,16 @@ input[type=submit]:hover {
   }
 }
 </style>
+---
+
+### 各種メディア
+* [Facebook](https://www.facebook.com/MPOsince2018/)
+* [Twitter](https://twitter.com/MPOsince2018)
+* [Peing-質問箱-](https://peing.net/mposince2018)
+* [YouTube](https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA)
+
+### お問い合わせフォーム
+
 <p><span style="color:#ba2636">*&nbsp;必須項目</span> </p>
 <script type="text/javascript">
     var submitted = false;
