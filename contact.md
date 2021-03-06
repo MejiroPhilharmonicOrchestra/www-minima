@@ -4,10 +4,10 @@ title:  "お問い合わせ"
 ---
 
 ### 各種メディア
-* [Facebook](https://www.facebook.com/MPOsince2018/)
-* [Twitter](https://twitter.com/MPOsince2018)
-* [Peing-質問箱-](https://peing.net/mposince2018)
-* [YouTube](https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA)
+* <a target="_blank" rel="noopener" href="https://www.facebook.com/MPOsince2018/">Facebook</a>
+* <a target="_blank" rel="noopener" href="https://twitter.com/MPOsince2018">Twitter</a>
+* <a target="_blank" rel="noopener" href="https://peing.net/mposince2018">Peing-質問箱-</a>
+* <a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCtf03ktbP1GfXjeept8sdNA">YouTube</a>
 
 ### お問い合わせフォーム
 
