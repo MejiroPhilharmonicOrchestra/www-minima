@@ -37,3 +37,5 @@ title:  "団員募集"
 練習場所は豊島区の<a target="_blank" rel="noopener" href="https://www.toshima-mirai.or.jp/center/e_zoshigaya/">雑司が谷地域文化創造館</a>を中心に都内の公営施設をお借りして行っています。
 
 練習の見学や入団をご希望の方は[お問い合わせ](/www-minima/contact.html)ください。
+
+**※新型コロナウイルス感染症等感染拡大防止ガイドラインは[こちら](/assets/files/20210401_mejiro-philharmonic-orchestra-covid19-contagion-prevention-guideline-v1.pdf)。**
